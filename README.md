@@ -1,4 +1,4 @@
-# Kafka Python Project
+# Kafka Project With Python
 
 This project uses Apache Kafka for communication between a producer and a consumer, both written in Python.
 
